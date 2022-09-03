@@ -9,7 +9,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  font-family: "Comic Neue", cursive;
+  font-family: 'Montserrat', sans-serif;
   background: radial-gradient(
     circle,
     rgba(43, 44, 46, 1) 13%,
