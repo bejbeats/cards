@@ -33,10 +33,10 @@ body {
   overflow: hidden;
 }
 .one {
-  background-image: url("ryba1-img-big.jpg");
+  background-image:"ryba1-img-big.jpg";
 }
 .two {
-  background-image: url("kreweta-img-big.jpg");
+  background-image: "kreweta-img-big.jpg";
 }
 button {
   position: absolute;
